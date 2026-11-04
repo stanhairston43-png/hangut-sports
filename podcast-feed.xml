@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>한끗 스포츠 | 스포츠 픽·스포츠 분석·경기정보</title>
+    <link>https://sites.google.com/view/hangut-sports</link>
+    <description>스포츠 픽, 스포츠 분석, 경기정보를 함께 읽는 한끗 스포츠입니다. 축구·야구·농구·배구의 경기 전 변수, 일정과 결과, 선수 소식과 경기 후 복기를 다룹니다. 선택의 이유와 달라질 수 있는 조건을 짧고 쉽게 전합니다.
+
+오늘의 조합픽 확인하기 → https://t.me/hangutttt
+한끗 스포츠 안내 → https://sites.google.com/view/hangut-sports
+상세 분석 → https://blog.naver.com/hangutsports
+한끗 밴드 → https://www.band.us/band/104981455
+
+AI를 활용한 원고와 합성 음성이 포함됩니다.</description>
+    <language>ko-KR</language>
+    <copyright>2026 한끗 스포츠</copyright>
+    <lastBuildDate>Wed, 04 Nov 2026 08:15:09 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <atom:link href="https://stanhairston43-png.github.io/hangut-sports/podcast-feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>한끗 스포츠</itunes:author>
+    <itunes:summary>스포츠 픽, 스포츠 분석, 경기정보를 함께 읽는 한끗 스포츠입니다. 축구·야구·농구·배구의 경기 전 변수, 일정과 결과, 선수 소식과 경기 후 복기를 다룹니다. 선택의 이유와 달라질 수 있는 조건을 짧고 쉽게 전합니다.
+
+오늘의 조합픽 확인하기 → https://t.me/hangutttt
+한끗 스포츠 안내 → https://sites.google.com/view/hangut-sports
+상세 분석 → https://blog.naver.com/hangutsports
+한끗 밴드 → https://www.band.us/band/104981455
+
+AI를 활용한 원고와 합성 음성이 포함됩니다.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Sports" />
+    <itunes:owner>
+      <itunes:name>한끗 스포츠</itunes:name>
+      <itunes:email>bachvanthanh20031987@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://stanhairston43-png.github.io/hangut-sports/podcast-cover.png" />
+    <podcast:guid>34f3d91b-abdf-5770-b046-17d485c3b31f</podcast:guid>
+    <image>
+      <url>https://stanhairston43-png.github.io/hangut-sports/podcast-cover.png</url>
+      <title>한끗 스포츠 | 스포츠 픽·스포츠 분석·경기정보</title>
+      <link>https://sites.google.com/view/hangut-sports</link>
+    </image>
+    <item>
+      <title>2026.11.04 | 스포츠 픽과 스포츠 분석, 경기정보를 함께 읽는 법</title>
+      <link>https://sites.google.com/view/hangut-sports/analysis</link>
+      <guid isPermaLink="false">8058bd18-3998-5bbe-8b3f-40da75da44d4</guid>
+      <pubDate>Wed, 04 Nov 2026 08:15:09 +0000</pubDate>
+      <description>한끗 스포츠 첫 번째 이야기. 스포츠 픽은 선택을, 스포츠 분석은 이유와 조건을 보여줍니다. 경기정보를 볼 때 확인할 홈·원정, 결장과 휴식일 차이, 승패와 언더·오버를 나눠 읽는 법, 개별 선택과 조합 결과를 구분하는 법, 관망을 기록하는 이유를 이야기합니다.
+
+오늘의 조합픽 확인하기 → https://t.me/hangutttt
+자세한 분석 → https://blog.naver.com/hangutsports
+한끗 밴드 → https://www.band.us/band/104981455
+
+같은 경기, 다른 한끗. 판단의 이유와 경기 후 놓친 조건을 함께 기록합니다. 이 에피소드는 AI를 활용한 원고와 합성 음성으로 제작했습니다.</description>
+      <itunes:summary>한끗 스포츠 첫 번째 이야기. 스포츠 픽은 선택을, 스포츠 분석은 이유와 조건을 보여줍니다. 경기정보를 볼 때 확인할 홈·원정, 결장과 휴식일 차이, 승패와 언더·오버를 나눠 읽는 법, 개별 선택과 조합 결과를 구분하는 법, 관망을 기록하는 이유를 이야기합니다.
+
+오늘의 조합픽 확인하기 → https://t.me/hangutttt
+자세한 분석 → https://blog.naver.com/hangutsports
+한끗 밴드 → https://www.band.us/band/104981455
+
+같은 경기, 다른 한끗. 판단의 이유와 경기 후 놓친 조건을 함께 기록합니다. 이 에피소드는 AI를 활용한 원고와 합성 음성으로 제작했습니다.</itunes:summary>
+      <enclosure url="https://stanhairston43-png.github.io/hangut-sports/podcast-01.mp3" length="1366591" type="audio/mpeg" />
+      <itunes:author>한끗 스포츠</itunes:author>
+      <itunes:duration>114</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://stanhairston43-png.github.io/hangut-sports/podcast-cover.png" />
+    </item>
+  </channel>
+</rss>
